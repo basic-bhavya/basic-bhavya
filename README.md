@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Bhavya!] () 
+### Hey 👋🏽, I'm [Bhavya!]() 
 
 <br/>
 
@@ -17,7 +17,7 @@ Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning
 
 <br />
   
-<img alt="GIF" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif" />  
+<img align="left" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />  
 ### **The Stuff:**
 
 - 👨🏽‍💻 Currently working on [inDocs - Document Scanner in a browser](https://github.com/SPM-Team-2/indocs);
