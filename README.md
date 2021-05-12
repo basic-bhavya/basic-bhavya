@@ -27,6 +27,7 @@ Apart from programming, I spend my days learning interesting miscellaneous skill
 - 🌱 Actively improving on my Data Structures and Algorithms at [HackerRank](https://www.hackerrank.com/bjain_nd) and [Leetcode](https://leetcode.com/basic-bhavya/);
 - 👯 Last project => [Next-Whatsapp | Nextjs Whatsapp clone](https://github.com/basic-bhavya/next-whatsapp) 💬;
 - 🤔 Planning 2 more projects currently;
+- 🧠 Get my hands on Deep Learning and Data Science occasionally, but who doesn't
 - 🔯 Also like: **Computer Graphics & Physics Simulations** thanks to [Two Minute Papers](https://www.youtube.com/user/keeroyz);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/);
