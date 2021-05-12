@@ -27,7 +27,7 @@ Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning
 - 🤔 Planning 2 more projects currently;
 - 🔯 Also like: **Computer Graphics & Physics Simulations** thanks to [Two Minute Papers](https://www.youtube.com/user/keeroyz);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/) | [Facebook](https://www.facebook.com/bhavya.jain.351/) ;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/);
 - 📝[Resume](coming_soon)
 
 ### **Languages and Tools:**
