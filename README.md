@@ -13,7 +13,9 @@
 
 <br />
 
-Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning at [Goldman Sachs](https://www.goldmansachs.com/). I'm a vegetarian and apart from programming, I spend my days learning interesting miscellaneous skills. 
+Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning at [Goldman Sachs](https://www.goldmansachs.com/)
+I'm a vegetarian.
+Apart from programming, I spend my days learning interesting miscellaneous skills. 
 
 <br /> 
 
