@@ -19,6 +19,8 @@ Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning
 
 ### **The Stuff:**
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /> 
+
 - 👨🏽‍💻 Currently working on [inDocs - Document Scanner in a browser](https://github.com/SPM-Team-2/indocs);
 - 🌱 Actively improving on my Data Structures and Algorithms at [HackerRank](https://www.hackerrank.com/bjain_nd) and [Leetcode](https://leetcode.com/basic-bhavya/);
 - 👯 Last project => [Next-Whatsapp | Nextjs Whatsapp clone](https://github.com/basic-bhavya/next-whatsapp) 💬;
@@ -27,8 +29,6 @@ Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/) | [Facebook](https://www.facebook.com/bhavya.jain.351/) ;
 - 📝[Resume](coming_soon)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /> 
 
 ### **Languages and Tools:**
 
