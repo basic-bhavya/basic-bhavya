@@ -17,7 +17,7 @@ Hi, I'm Bhavya Jain, a Full Stack Developer 🚀 from India, currently interning
 
 <br />
   
-<img align="left" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />  
 
 ### **The Stuff:**
 
