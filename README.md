@@ -24,7 +24,7 @@ Apart from programming, I spend my days learning interesting miscellaneous skill
 - 👨🏽‍💻 Currently working on [inDocs - Document Scanner in a browser](https://github.com/SPM-Team-2/indocs);
 - 🌱 Actively improving on my Data Structures and Algorithms at [HackerRank](https://www.hackerrank.com/bjain_nd) and [Leetcode](https://leetcode.com/basic-bhavya/);
 - 👯 Last project => [Indocs | Document Scanner in a browser](https://github.com/basic-bhavya/indocs) 💬;
-- 🤔 Planning 2 more projects currently;
+- 🤔 :two: projects In-progress;
 - 🧠 Get my hands on Deep Learning and Data Science occasionally, but who doesn't
 - 🔯 Also like: **Computer Graphics & Physics Simulations** thanks to [Two Minute Papers](https://www.youtube.com/user/keeroyz);
 - 💬 Ask me about anything, I am happy to help;
