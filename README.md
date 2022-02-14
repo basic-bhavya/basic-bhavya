@@ -21,13 +21,13 @@ Apart from programming, I spend my days learning interesting miscellaneous skill
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /> 
 
-- 👨🏽‍💻 Currently working on [inDocs - Document Scanner in a browser](https://github.com/SPM-Team-2/indocs);
+- 👨🏽‍💻 Currently working on my Flutter Skills;
 - 🌱 Actively improving on my Data Structures and Algorithms at [HackerRank](https://www.hackerrank.com/bjain_nd) and [Leetcode](https://leetcode.com/basic-bhavya/);
 - 👯 Last project => [Indocs | Document Scanner in a browser](https://github.com/basic-bhavya/indocs) 💬;
 - 🤔 :two: projects In-progress;
-- 🧠 Get my hands on Deep Learning and Data Science occasionally, but who doesn't
+<!-- - 🧠 Get my hands on Deep Learning and Data Science occasionally, but who doesn't -->
 - 🔯 Also like: **Computer Graphics & Physics Simulations** thanks to [Two Minute Papers](https://www.youtube.com/user/keeroyz);
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/);
 - 📝[Resume](coming_soon)
 
