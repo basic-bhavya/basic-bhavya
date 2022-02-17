@@ -29,7 +29,7 @@ Apart from programming, I spend my days learning interesting miscellaneous skill
 - 🔯 Also like: **Computer Graphics & Physics Simulations** thanks to [Two Minute Papers](https://www.youtube.com/user/keeroyz);
 - 💬 Ask me about anything, happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-jain-nd/);
-- 📝[Resume](coming_soon)
+<!-- - 📝[Resume] (maybe later) -->
 
 ### **Languages and Tools:**
 
